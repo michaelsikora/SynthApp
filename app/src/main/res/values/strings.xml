@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SynthApp</string>
+    <string name="company_name">movetones</string>
+    <string name="sensor_value">sensor_value</string>
+    <string name="message">hello</string>
+    <string name="description">description text</string>
 </resources>
